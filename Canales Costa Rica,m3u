@@ -48,6 +48,9 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285183
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/b57ce3ddd129183e9c2ef06244ec4d3c.jpeg",CR: Telesistema
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286336
 
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="https://lh3.googleusercontent.com/HrH2Qbn0njMSXF_XbUJ1NZS31KvF37LRYgcJH2wFCwpstrZ1IZ59Sw1nvM5_8bc0ieM",CR: Antena 6
+http://video1.azulstream.com:8080/antenaseistv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="1048" tvg-name="TicaVision" tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png",CR: TicaVision
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8?PlaylistM3UCL
 
@@ -57,7 +60,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169525
 #EXTINF:-1 group-title="Costa Rica" ,CR: Cartago Medios TV
 https://tvdatta.com:3384/stream/play.m3u8
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: Los Santos TV
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="http://castlempire.site:8080/images/e9ab02445ed934edc2243fb673d2c043.png",CR: LOS SANTOS TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/751ad6b8fc1779bc2119fc042e7497ef.webp",CR: Trivision 36
@@ -66,17 +69,17 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/278067
 #EXTINF:-1 tvg-id="1047" tvg-name="Nicoya TV" tvg-logo="https://i2.paste.pics/3238d7371f23b09198d794d2979411b9.png",CR: Nicoya TV. 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: TV Santa Cruz
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="http://castlempire.site:8080/images/91a1068d29b85e695fe5baef47a20efd.png",CR: SANTA CRUZ TV
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 
 #EXTINF:-1 group-title="Costa Rica" ,CR: TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8?nimblesessionid=7087667
 
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c409f5935a8f607972b6e051c8e13c46.jpg",CR: Colosal TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286325
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w2038571797.m3u8
 
 #EXTINF:-1 grupo-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cd5d658b1c9bc9795df397abaf0b3519.jpg",CR: Extrema TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/278053
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w2134072048.m3u8
 
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/48e1d4a19a79e15269f7e27017ebc176.jfif",CR: TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
@@ -93,7 +96,7 @@ https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1258" tvg-name="Limon TV" tvg-logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png",CR: Limón TV. 
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: SarapiquíTV
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="https://image.winudf.com/v2/image1/YWlyLmNvbi5zYXJhcGlxdWkuc3R2X2ljb25fMTU0NDQ3Mzg4OV8wMzc/icon.png?w=170&fakeurl=1",CR: Sarapiquí TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-id="1388" tvg-name="Coto Brus TV" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png",CR: Coto Brus TV. 
@@ -105,7 +108,7 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1257" tvg-name="TV Curre" tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",CR: TV Curré 
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: IQ Chanel
+#EXTINF:-1 group-title="Videos y Radios GEO" tvg-logo="http://castlempire.site:8080/images/992d99ce1b97798888ffec0f5bd0239b.png",CR: IQ RADIO
 https://rtmp.info/iqtv/envivo/chunklist_w742636510.m3u8
 
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png",CR: VM Latino
@@ -141,7 +144,7 @@ https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/chunklis
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/388e58a2012e42c8a9d8edc29265e99a.png",CR: Canal Video Tour
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286337
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: Esperanza TV
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="http://castlempire.site:8080/images/d5d5389117ebe38f0bc086c818aa0d97.png",CR: Esperanza TV
 https://5eac7b031d945.streamlock.net/REDES/REDES/chunklist_w1989435664.m3u8
 
 #EXTINF:-1 group-title="Costa Rica" ,CR: Enlace
@@ -153,5 +156,5 @@ https://1-1145-11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sle
 #EXTINF:-1 group-title="Costa Rica" ,CR: Telefides
 https://5d16127744872.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w876778888.m3u8
 
-#EXTINF:-1 group-title="Costa Rica" ,CR: SAN JOSE TV
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="http://castlempire.site:8080/images/bc7da12550a307a6dc97fefa0ddab666.png",CR: SAN JOSE TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w559435721.m3u8
