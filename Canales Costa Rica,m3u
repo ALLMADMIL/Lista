@@ -81,6 +81,9 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w2038571797.m3u8
 #EXTINF:-1 grupo-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cd5d658b1c9bc9795df397abaf0b3519.jpg",CR: Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w2134072048.m3u8
 
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1ad5c6704fde6187788752c31de1659c.jpg",CR: TV Sur Canal 9
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286333
+
 #EXTINF:-1 group-title="Costa Rica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/48e1d4a19a79e15269f7e27017ebc176.jfif",CR: TeleSUR Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
